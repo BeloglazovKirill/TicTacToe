@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="buttonNewGame">New Game</string>
+    <string name="buttonAbout">About</string>
+    <string name="textWelcome">Hello, it\'s Tic Tac Toe. Good game!</string>
+    <string name="aboutText">The author - Beloglazov Kirill.</string>
+    <string name="newGame">New Game</string>
+    <string name="playerXgoes">Ходит Игрок X</string>
+    <string name="playerOgoes">Ходит Игрок O</string>
+    <string name="playerXwon">Игрок X выйграл</string>
+    <string name="playerYwon">Игрок O выйграл</string>
+    <string name="draw">Ничья!</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+
+
+
+</resources>
